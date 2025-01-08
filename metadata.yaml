@@ -1,0 +1,5 @@
+homepage: "http://daam.com.sa/"
+documentation: "https://daam.com.sa/contact-us/"
+versions:
+  - sha: bd59f82745d3fcf929b658a0273d0aec2ab93dfd
+    changeNotes: Initial release. Please contact Daam Al-Arabia for more details
